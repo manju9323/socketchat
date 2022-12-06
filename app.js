@@ -1,6 +1,6 @@
 const io= require("socket.io")(8900,{
   cors:{
-    origin:"https://chatreact.netlify.app/"
+    origin:"https://chatreactmaesgo.netlify.app/"
   }
 });
 
